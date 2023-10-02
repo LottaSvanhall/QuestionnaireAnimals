@@ -1,0 +1,244 @@
+[
+  {
+    "Question1": {
+      "MyQuestion": "Är du allergisk mot pälsdjur?",
+      "Ja": {
+        "Katt": 0,
+        "Hund": 0,
+        "Fisk": 2,
+        "Kanin": 0
+      },
+      "Nej": {
+        "Katt": 2,
+        "Hund": 2,
+        "Fisk": 0,
+        "Kanin": 2
+      }
+    },
+    "Question2": {
+      "MyQuestion": "Tycker du om pälsvård?",
+      "Ja": {
+        "Katt": 2,
+        "Hund": 2,
+        "Fisk": 0,
+        "Kanin": 2
+      },
+      "Nej": {
+        "Katt": 0,
+        "Hund": 0,
+        "Fisk": 2,
+        "Kanin": 0
+      }
+    },
+    "Question3": {
+      "MyQuestion": "Tycker du om att röra på dig?",
+      "Ja": {
+        "Katt": 1,
+        "Hund": 2,
+        "Fisk": 0,
+        "Kanin": 1
+      },
+      "Nej": {
+        "Katt": 1,
+        "Hund": 0,
+        "Fisk": 2,
+        "Kanin": 1
+      }
+    },
+    "Question4": {
+      "MyQuestion": "Är din ekonomi god?",
+      "Ja": {
+        "Katt": 2,
+        "Hund": 2,
+        "Fisk": 1,
+        "Kanin": 1
+      },
+      "Nej": {
+        "Katt": 0,
+        "Hund": 0,
+        "Fisk": 1,
+        "Kanin": 1
+      }
+    },
+    "Question5": {
+      "MyQuestion": "Arbetar du långa dagar?",
+      "Ja": {
+        "Katt": 1,
+        "Hund": 0,
+        "Fisk": 2,
+        "Kanin": 1
+      },
+      "Nej": {
+        "Katt": 1,
+        "Hund": 2,
+        "Fisk": 0,
+        "Kanin": 1
+      }
+    },
+    "Question6": {
+      "MyQuestion": "Är du bortrest ofta?",
+      "Ja": {
+        "Katt": 0,
+        "Hund": 0,
+        "Fisk": 2,
+        "Kanin": 0
+      },
+      "Nej": {
+        "Katt": 2,
+        "Hund": 2,
+        "Fisk": 1,
+        "Kanin": 2
+      }
+    },
+    "Question7": {
+      "MyQuestion": "Bor du i hus?",
+      "Ja": {
+        "Katt": 2,
+        "Hund": 2,
+        "Fisk": 0,
+        "Kanin": 2
+      },
+      "Nej": {
+        "Katt": 1,
+        "Hund": 0,
+        "Fisk": 2,
+        "Kanin": 1
+      }
+    },
+    "Question8": {
+      "MyQuestion": "Bor du i lägenhet?",
+      "Ja": {
+        "Katt": 1,
+        "Hund": 1,
+        "Fisk": 2,
+        "Kanin": 1
+      },
+      "Nej": {
+        "Katt": 1,
+        "Hund": 2,
+        "Fisk": 2,
+        "Kanin": 1
+      }
+    },
+    "Question9": {
+      "MyQuestion": "Bor du ensam?",
+      "Ja": {
+        "Katt": 2,
+        "Hund": 1,
+        "Fisk": 2,
+        "Kanin": 2
+      },
+      "Nej": {
+        "Katt": 1,
+        "Hund": 2,
+        "Fisk": 2,
+        "Kanin": 2
+      }
+    },
+    "Question10": {
+      "MyQuestion": "Har du bil?",
+      "Ja": {
+        "Katt": 1,
+        "Hund": 2,
+        "Fisk": 0,
+        "Kanin": 1
+      },
+      "Nej": {
+        "Katt": 1,
+        "Hund": 0,
+        "Fisk": 2,
+        "Kanin": 1
+      }
+    },
+    "Question11": {
+      "MyQuestion": "Är du känslig för ljud?",
+      "Ja": {
+        "Katt": 1,
+        "Hund": 0,
+        "Fisk": 1,
+        "Kanin": 1
+      },
+      "Nej": {
+        "Katt": 1,
+        "Hund": 2,
+        "Fisk": 0,
+        "Kanin": 1
+      }
+    },
+    "Question12": {
+      "MyQuestion": "Tycker du om att vara ute mörka kvällar?",
+      "Ja": {
+        "Katt": 1,
+        "Hund": 2,
+        "Fisk": 0,
+        "Kanin": 1
+      },
+      "Nej": {
+        "Katt": 1,
+        "Hund": 0,
+        "Fisk": 2,
+        "Kanin": 1
+      }
+    },
+    "Question13": {
+      "MyQuestion": "Gillar du att vara ute i regn och kyla?",
+      "Ja": {
+        "Katt": 1,
+        "Hund": 2,
+        "Fisk": 0,
+        "Kanin": 1
+      },
+      "Nej": {
+        "Katt": 1,
+        "Hund": 0,
+        "Fisk": 2,
+        "Kanin": 1
+      }
+    },
+    "Question14": {
+      "MyQuestion": "Är du morgonpigg?",
+      "Ja": {
+        "Katt": 1,
+        "Hund": 2,
+        "Fisk": 0,
+        "Kanin": 1
+      },
+      "Nej": {
+        "Katt": 1,
+        "Hund": 0,
+        "Fisk": 2,
+        "Kanin": 0
+      }
+    },
+    "Question15": {
+      "MyQuestion": "Är du känslig för dofter?",
+      "Ja": {
+        "Katt": 0,
+        "Hund": 0,
+        "Fisk": 1,
+        "Kanin": 1
+      },
+      "Nej": {
+        "Katt": 2,
+        "Hund": 2,
+        "Fisk": 1,
+        "Kanin": 1
+      }
+    },
+    "Question16": {
+      "MyQuestion": "Klarar du av att hantera fästingar och loppor?",
+      "Ja": {
+        "Katt": 2,
+        "Hund": 2,
+        "Fisk": 0,
+        "Kanin": 1
+      },
+      "Nej": {
+        "Katt": 0,
+        "Hund": 0,
+        "Fisk": 2,
+        "Kanin": 1
+      }
+    }
+  }
+]
