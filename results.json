@@ -1,0 +1,97 @@
+[
+  [
+    [
+      [
+        [],
+        {
+          "Namn": "Lotta",
+          "Date": "Wed Oct 04 2023 19:39:59 GMT+0200 (centraleuropeisk sommartid)",
+          "Result": [ 
+            {
+              "Animal": "Hund",
+              "Score": "36.58536585365854%"
+            },
+            {
+              "Animal": "Katt",
+              "Score": "28.04878048780488%"
+            },
+            {
+              "Animal": "Kanin",
+              "Score": "24.390243902439025%"
+            },
+            {
+              "Animal": "Fisk",
+              "Score": "10.975609756097562%"
+            }
+          ]
+        }
+      ],
+      {
+        "Namn": "Sanni",
+        "Date": "Wed Oct 04 2023 19:40:48 GMT+0200 (centraleuropeisk sommartid)",
+        "Result": [
+          {
+            "Animal": "Hund",
+            "Score": "35.61643835616438%"
+          },
+          {
+            "Animal": "Kanin",
+            "Score": "26.027397260273972%"
+          },
+          {
+            "Animal": "Katt",
+            "Score": "23.28767123287671%"
+          },
+          {
+            "Animal": "Fisk",
+            "Score": "15.068493150684931%"
+          }
+        ]
+      }
+    ],
+    {
+      "Namn": "eskil",
+      "Date": "Thu Oct 05 2023 14:36:29 GMT+0200 (centraleuropeisk sommartid)",
+      "Result": [
+        {
+          "Animal": "Hund",
+          "Score": "30%"
+        },
+        {
+          "Animal": "Katt",
+          "Score": "26.25%"
+        },
+        {
+          "Animal": "Kanin",
+          "Score": "25%"
+        },
+        {
+          "Animal": "Fisk",
+          "Score": "18.75%"
+        }
+      ]
+    }
+  ],
+  {
+    "Namn": "Lotta",
+    "Date": "Fri Oct 06 2023 08:50:08 GMT+0200 (centraleuropeisk sommartid)",
+    "Result": [
+      {
+        "Animal": "Kanin",
+        "Score": "25.675675675675674%"
+      },
+      {
+        "Animal": "Fisk",
+        "Score": "25.675675675675674%"
+      },
+      {
+        "Animal": "Hund",
+        "Score": "24.324324324324326%"
+      },
+      {
+        "Animal": "Katt",
+        "Score": "24.324324324324326%"
+      }
+    ]
+  }
+]

@@ -1,2 +1,2 @@
 # QuestionnaireAnimals
- Skolprojekt
+Schoolproject in JavaScript
